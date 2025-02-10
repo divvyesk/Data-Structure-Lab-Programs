@@ -1,3 +1,5 @@
+//Q: Write a program to reverse a string using Stack
+
 #include<stdio.h>
 #define SIZE 5
 #include<stdbool.h>
