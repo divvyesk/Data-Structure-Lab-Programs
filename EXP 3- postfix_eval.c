@@ -1,3 +1,5 @@
+//Q: Write a program to evaluate postfix expression using stack ADT
+
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>
