@@ -1,3 +1,5 @@
+//Q: implementation of stack using an array. Create a menu driven program
+
 #include<stdio.h>
 #define max 10
 int stack [max];
