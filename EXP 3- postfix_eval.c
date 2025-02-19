@@ -5,8 +5,8 @@
 #include<stdlib.h>
 #include<ctype.h>
 #include<string.h>
-char s[100];
-char arr[100];
+char s[100]; //to store the operators temporarily 
+char arr[100]; //to store the infix expression
 int top = -1;
 int op1= 0;
 int op2 =0;
